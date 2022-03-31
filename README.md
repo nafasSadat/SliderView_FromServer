@@ -12,3 +12,8 @@
 
 ### Add internet permission to Manifest file
 #### <uses-permission android:name="android.permission.INTERNET" />
+
+### Result
+
+https://user-images.githubusercontent.com/28274092/161018257-691dc00e-334a-4a5a-9a82-d41958d7ef0c.mp4
+
